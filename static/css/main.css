@@ -522,7 +522,7 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.bg-red-500 {
+.bg-chatblack-50 {
   --tw-bg-opacity: 1;
-  background-color: rgb(239 68 68 / var(--tw-bg-opacity));
+  background-color: rgb(52 53 65 / var(--tw-bg-opacity));
 }
